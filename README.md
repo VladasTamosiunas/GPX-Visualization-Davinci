@@ -21,7 +21,7 @@ GPX Visualization Tool allows videographers, content creators, and outdoor enthu
 ## Installation
 
 1. Locate your DaVinci Resolve Fusion Scripts folder:
-   - Windows: `%AppData%\Blackmagic Design\DaVinci Resolve\Fusion\Scripts\Comp`
+   - Windows: `%AppData%\Roaming\Blackmagic Design\DaVinci Resolve\Support\Fusion\Scripts\Comp\GPXTool`
    - Mac: `/Library/Application Support/Blackmagic Design/DaVinci Resolve/Fusion/Scripts/Comp`
    - Linux: `~/.local/share/DaVinciResolve/Fusion/Scripts/Comp`
 
